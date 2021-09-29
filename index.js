@@ -33,3 +33,6 @@ console.log("heyyy");
 const _ = require("lodash");
 console.log(_.sortBy(data1.cityExported));
 console.log(_.uniq([3, 2, 3, 2, 3, 2, 3, 3]));
+
+let number = require("./data3");
+console.log(number);
